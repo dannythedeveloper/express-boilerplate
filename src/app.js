@@ -1,4 +1,4 @@
-'use strict';
+/* eslint-disable strict */
 
 require('dotenv').config();
 const express = require('express');
